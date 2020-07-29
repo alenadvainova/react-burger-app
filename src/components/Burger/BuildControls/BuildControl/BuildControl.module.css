@@ -38,21 +38,25 @@
 .BuildControl .Less {
   background-color: #d39952;
   color: white;
+  font-weight: bold;
 }
 
 .BuildControl .More {
   background-color: #8f5e1e;
   color: white;
+  font-weight: bold;
 }
 
 .BuildControl .Less:hover,
 .BuildControl .Less:active {
   background-color: #daa972;
   color: white;
+  font-weight: bold;
 }
 
 .BuildControl .More:hover,
 .BuildControl .More:active {
   background-color: #99703f;
   color: white;
+  font-weight: bold;
 }
