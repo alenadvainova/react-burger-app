@@ -1,6 +1,6 @@
 ## React Burger App
 
-Please run the application using the link [React Burger app](https://alenadvainova.github.io/)
+Please run the application using the link [React Burger app](http://alenadvainova.github.io/react-burger-app)
 
 ### Description
 
